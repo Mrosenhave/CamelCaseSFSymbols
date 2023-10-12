@@ -2,8 +2,7 @@
 A simple swift struct containing all 5296 SF Symbol 5 icons with CamelCase names making it easy and safe to use.
 
 ## Installation
-
-    Simply add the .swift file to your project and start typing.
+Simply add the .swift file to your project and start typing.
 ## Example usage
 Anywhere you can type the name of an SF Symbol you can use this instead. You'll even get suggestions in xcode while typing. To get a symbol start writing "SF." and the name of the icon. Numbers are written out ("creditcard.and.123" -> CreditcardAndOneHundredTwentyThree):
 
